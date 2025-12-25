@@ -1,5 +1,5 @@
 // Payment.java
-package auction;
+package auction.core;
 
 public class Payment {
     private String method; // e.g., "Credit Card", "Bank Transfer"

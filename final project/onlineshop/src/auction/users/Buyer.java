@@ -1,7 +1,7 @@
 // Buyer.java
-package auction;
+package auction.users;
 
-public class Buyer extends auction.User {
+public class Buyer extends User {
     public Buyer(String userId, String username) {
         super(userId, username);
     }

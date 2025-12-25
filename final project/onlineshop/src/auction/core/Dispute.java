@@ -1,4 +1,6 @@
-package auction;
+package auction.core;
+
+import auction.users.Administrator;
 
 public class Dispute {
     private String reason;

@@ -1,5 +1,8 @@
 // AuctionHouse.java
-package auction;
+package auction.core;
+
+import auction.interfaces.Biddable;
+import auction.listings.StandardAuction;
 
 import java.util.ArrayList;
 import java.util.List;

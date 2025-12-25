@@ -1,5 +1,8 @@
 // Seller.java
-package auction;
+package auction.users;
+
+import auction.core.*;
+import auction.interfaces.Rateable;
 
 import java.util.ArrayList;
 

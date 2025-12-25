@@ -1,10 +1,13 @@
 // Administrator.java
-package auction;
+package auction.users;
+
+import auction.core.Dispute;
+import auction.listings.StandardAuction;
 
 public class Administrator extends User {
     private String employeeId;
 
-    public Administrator(String userId, String username, String employeeId) {
+    public Administrator(String userId, String username) {
         super(userId, username);
         this.employeeId = employeeId;
     }

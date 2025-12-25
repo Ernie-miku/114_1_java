@@ -1,5 +1,5 @@
 // ShippingInfo.java
-package auction;
+package auction.core;
 
 public class ShippingInfo {
     private String address;

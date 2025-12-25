@@ -1,4 +1,6 @@
-package auction;
+package auction.core;
+
+import auction.users.User;
 
 public class Rating {
     private User rater;

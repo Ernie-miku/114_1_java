@@ -1,5 +1,5 @@
 // Expirable.java
-package auction;
+package auction.interfaces;
 import java.time.LocalDateTime;
 import java.time.Duration;
 
